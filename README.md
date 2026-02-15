@@ -2,7 +2,7 @@
 
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin that puts Claude at exactly 0.1337% BAC. It still writes working code, but with more confidence, bolder suggestions, and creative variable names.
 
-Based on the [Ballmer Peak 2.0](https://adriankrebs.ch/blog/ballmer-peak-20/) blog post.
+Based on the [AI Moved the Ballmer Peak](https://adriankrebs.ch/blog/ai-moved-the-ballmer-peak/) blog post.
 
 ## Install
 
