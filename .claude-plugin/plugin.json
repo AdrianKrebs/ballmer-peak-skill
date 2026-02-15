@@ -1,0 +1,13 @@
+{
+  "name": "ballmer-peak",
+  "description": "Activate Ballmer Peak mode — Claude codes as if it's had a few drinks. Based on https://adriankrebs.ch/blog/ballmer-peak-20/",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adrian Krebs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adriankrebs/ballmer-peak-skill"
+  },
+  "license": "MIT"
+}
